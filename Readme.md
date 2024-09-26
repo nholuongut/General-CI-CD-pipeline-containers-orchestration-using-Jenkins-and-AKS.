@@ -313,3 +313,12 @@ Initializing Helm
 	done	
 
 	PORT=$(kubectl get svc node --namespace=node -o json | jq '.spec.ports[0].port')
+
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
